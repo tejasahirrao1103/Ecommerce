@@ -1,6 +1,9 @@
 # aExpress
 Ecommerce Application Tutorial (Source) - Mian Speaks
 
+#Youtube tutorial
+https://youtu.be/77E9_jrOa4s?si=Cm0rxZn7IiJ9QLdX
+
 # How to setup Admin Panel
 
 ###### Step 1: Download Source Code
